@@ -80,8 +80,8 @@ transcriber = aai.RealtimeTranscriber(
   on_data=on_data,
   on_error=on_error,
   sample_rate=44_100,
-  on_open=on_open, # optional
-  on_close=on_close, # optional
+  on_open=on_open,
+  on_close=on_close, 
 )
 
 transcriber.connect()
