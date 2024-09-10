@@ -40,12 +40,10 @@ def gen_dub(text):
     print("Generating audio...")
     audio = client.generate(
         text=text,
-        voice="George", # Insert voice model here!
+        voice="George", 
         model="eleven_multilingual_v2"
     )
     play(audio)
-    
-
 
 
 def on_open(session_opened: aai.RealtimeSessionOpened):
