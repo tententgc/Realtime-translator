@@ -9,6 +9,9 @@ This project aims to develop a real-time voice translation tool that captures yo
 - **Customizable voice synthesis:** Reproduces the speaker's voice in the translated language.
 - **Powered by GPT-4-Turbo:** Leverages advanced translation capabilities for natural, nuanced translations.
 
+Here is the updated guide with the new Step 4 included:
+
+
 ## How to Use
 
 1. **Create a virtual environment:**
@@ -36,10 +39,18 @@ This project aims to develop a real-time voice translation tool that captures yo
    pip install -r requirements.txt
    ```
 
-4. **Run the program:**
+4. **Create a `.env` file:**
+   - Add the following keys in the `.env` file:
+     ```bash
+     OPENAI_API_KEY=
+     ASSEMBLYAI_API_KEY=
+     ```
+
+5. **Run the program:**
    ```bash
    python main.py
    ```
+
 
 ## Technologies Used
 
