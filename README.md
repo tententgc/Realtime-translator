@@ -1,6 +1,3 @@
-Here’s the revised `README.md` for your project:
-
-```md
 # Translating My Own Voice into a Different Language, as I Speak!
 
 This project aims to develop a real-time voice translation tool that captures your voice, processes it, and instantly translates it into another language while maintaining the speaker's unique vocal tone and cadence. The tool leverages speech recognition, natural language processing, and voice synthesis to provide seamless, live language translation. Whether for cross-cultural conversations, international meetings, or personal language practice, this project pushes the boundaries of voice and language technology!
@@ -59,6 +56,4 @@ This project aims to develop a real-time voice translation tool that captures yo
 
 ## Contributing
 
-For any inquiries or contributions, please feel free to reach out to the project maintainer:
-
-- **tententgc** (Thanyapisit Bua): thanyapisit.bua@gmail.com
+- tententgc thanyapisit.bua@gmail.com
